@@ -2,7 +2,7 @@
 <question type="truefalse">
         <answer fraction="100">
                 <text>true</text>
-                <feedback><text>Correct!</text></feedback>
+                <feedback><text>c'est bon!</text></feedback>
         </answer>
         <answer franction="0">
                 <text>false</text>
