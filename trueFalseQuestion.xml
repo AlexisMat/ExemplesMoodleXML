@@ -2,7 +2,11 @@
 <question type="truefalse">
         <answer fraction="100">
                 <text>true</text>
-                <feedback><text>ça passe!</text></feedback>
+<<<<<<< HEAD
+                <feedback><text>c'est bon!</text></feedback>
+=======
+                <feedback><text>c'est bon!</text></feedback>
+>>>>>>> 623d9375f9553a88df513caa32b1821f24b8738a
         </answer>
         <answer franction="0">
                 <text>false</text>
